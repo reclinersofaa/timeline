@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 595.3">
+  <!-- Longer capsule shape -->
+  <rect x="10" y="10" width="980" height="575.3" rx="287.65" ry="287.65" fill="#61DAFB"/>
+  <!-- Vertical dividing line -->
+  <line x1="500" y1="10" x2="500" y2="585.3" stroke="white" stroke-width="5"/>
+</svg>
